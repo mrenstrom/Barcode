@@ -1,0 +1,7 @@
+MasterPrep
+/Users/mark_enstrom/Barcode/
+/Users/mark_enstrom/Barcode/Data/SNP491.fastq
+ACTGTCTAGA ATGCAT /Users/mark_enstrom/Barcode/plasmid/Plasmid_Library_NA_SNP491_ACTG_NA_mp.txt
+CAGTTCTAGA ATGCAT /Users/mark_enstrom/Barcode/plasmid/Plasmid_Library_NA_SNP491_CAGT_NA_mp.txt
+GTCATCTAGA ATGCAT /Users/mark_enstrom/Barcode/plasmid/Plasmid_Library_NA_SNP491_GTCA_NA_mp.txt
+TGACTCTAGA ATGCAT /Users/mark_enstrom/Barcode/plasmid/Plasmid_Library_NA_SNP491_TGAC_NA_mp.txt
